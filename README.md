@@ -1,2 +1,2 @@
 # GO-Auth
-JWT Authentication using Go
+JWT Authentication using Go.
