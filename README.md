@@ -1,2 +1,2 @@
 # GO-Auth
-JWT Authentication using Go.
+Implementing user Authentication using JWT and Go server.
